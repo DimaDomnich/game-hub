@@ -1,15 +1,11 @@
-# About
+# GameHub
 
-This repository contains the completed GameHub project as of the end of part 2 of my React course.
+Explore & look for games: descriptions, screenshots, ratings, trailers and more!
 
-You can find the full course at: https://codewithmosh.com
+## Technology stack
 
-## Getting Started
+A test front-end application built using React + TypeScript, React Query + Zustand, the UI library used is chakra-ui.
 
-To get started, follow these steps:
+## Capabilities
 
-1. Clone this repository to your local machine.
-2. Run `npm install` to install the required dependencies.
-3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
-4. Add the API key to **src/services/api-client.ts**
-5. Run `npm run dev` to start the web server.
+Search, filter by game genre & platform, order by various categories, dark mode toggle, infinite scroll & games fetch.
